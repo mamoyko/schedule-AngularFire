@@ -2,4 +2,4 @@
 An exercise using AngularJS and Firebase 
 
 
-# DEMO PAGE 
+# DEMO PAGE https://oplengs001.github.io/schedule.github.io/#/client
